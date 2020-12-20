@@ -1,3 +1,11 @@
+ #include<iostream>
+#include<fstream>
+#include<string>
+#include<vector>
+#include<algorithm>
+
+using namespace std;
+
 //============================= parser.cpp ============================================
 
 /* INSTRUCTION:  Complete all ** parts.
